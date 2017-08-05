@@ -1,0 +1,19 @@
+{
+  "name": "eslint-plugin-adone",
+  "version": "0.6.52-0",
+  "description": "ESLint rules for adone",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciferox/eslint-plugin-adone.git"
+  },
+  "author": "Adone Core Team",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ciferox/eslint-plugin-adone/issues"
+  },
+  "homepage": "https://github.com/ciferox/eslint-plugin-adone#readme"
+}
