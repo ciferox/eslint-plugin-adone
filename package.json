@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-adone",
-  "version": "0.6.52-1",
+  "version": "0.6.71",
   "description": "ESLint rules for adone",
   "main": "lib/index.js",
   "scripts": {
