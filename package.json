@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-adone",
-  "version": "0.6.71",
+  "version": "0.6.71-2",
   "description": "ESLint rules for adone",
   "main": "lib/index.js",
   "scripts": {
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ciferox/eslint-plugin-adone/issues"
   },
-  "homepage": "https://github.com/ciferox/eslint-plugin-adone#readme"
+  "homepage": "https://github.com/ciferox/eslint-plugin-adone#readme",
+  "devDependencies": {
+    "@types/adone": "^0.6.6",
+    "babel-eslint": "^8.1.2",
+    "eslint": "^4.14.0"
+  }
 }
